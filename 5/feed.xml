@@ -19,7 +19,7 @@
             <description>Noticia de educación</description>
             <link>https://r0ndras.github.io/rss/5/noticia2</link>
             <pubDate>Sat, 01 Feb 2025 14:00:00 GMT</pubDate>
-            <guid isPermaLink="true">https://r0ndras.github.io/rss/5/noticia2</guid>
+            <guid isPermaLink="false">noticia2</guid>
         </item>
     </channel>
 </rss>
