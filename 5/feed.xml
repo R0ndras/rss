@@ -19,15 +19,15 @@
             <description>Noticia de educación</description>
             <link>https://r0ndras.github.io/rss/5/noticia2</link>
             <pubDate>Sat, 02 Feb 2025 14:00:00 GMT</pubDate>
-            <guid isPermaLink="false">noticia2</guid>
+            <guid isPermaLink="true">https://r0ndras.github.io/rss/5/noticia2</guid>
         </item>
 
         <item>
             <title>Accidente de Hamilton en Barcelona</title>
             <description>Noticia de F1</description>
-            <link>https://r0ndras.github.io/rss/5/noticia2</link>
+            <link>https://r0ndras.github.io/rss/5/noticia3</link>
             <pubDate>Sat, 02 Feb 2025 15:00:00 GMT</pubDate>
-            <guid isPermaLink="false">noticia3</guid>
+            <guid isPermaLink="true">https://r0ndras.github.io/rss/5/noticia3</guid>
         </item>
 
         <item>
@@ -35,7 +35,7 @@
             <description>Noticia de musica</description>
             <link>https://r0ndras.github.io/rss/5/noticia2</link>
             <pubDate>Sat, 02 Feb 2025 14:00:00 GMT</pubDate>
-            <guid isPermaLink="false">noticia4</guid>
+            <guid isPermaLink="true">https://r0ndras.github.io/rss/5/noticia4</guid>
         </item>
     </channel>
 </rss>
