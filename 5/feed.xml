@@ -11,7 +11,7 @@
             <description>Noticia del tiempo</description>
             <link>https://r0ndras.github.io/rss/5/index.html#noticia1</link>
             <pubDate>Sat, 01 Feb 2025 13:00:00 GMT</pubDate>
-            <guid>https://r0ndras.github.io/rss/5/index.html#noticia1</guid>
+            <guid isPermaLink="true">https://r0ndras.github.io/rss/5/index.html</guid>
         </item>
 
         <item>
@@ -19,7 +19,7 @@
             <description>Noticia de educación</description>
             <link>https://r0ndras.github.io/rss/5/noticia2.html</link>
             <pubDate>Sat, 01 Feb 2025 14:00:00 GMT</pubDate>
-            <guid>https://r0ndras.github.io/rss/5/noticia2.html</guid>
+            <guid isPermaLink="true">https://r0ndras.github.io/rss/5/noticia2.html</guid>
         </item>
     </channel>
 </rss>
