@@ -3,13 +3,13 @@
     <channel>
         <title>RSS de Bojan</title>
         <description>Noticias via RSS</description>
-        <link>/5/index.html</link>
+        <link>https://r0ndras.github.io/rss/5/</link>
         <language>Es</language>
          
         <item>
             <title>La Aemet advierte de un fin de semana lluvioso y con nevadas en Mallorca</title>
             <description>Noticia del tiempo</description>
-            <link>/5/index.html</link>
+            <link>https://r0ndras.github.io/rss/5/</link>
             <pubDate>31/01/25</pubDate>
         </item>
     </channel>
